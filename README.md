@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shazi Bidarain
 - 👀 I’m interested in full stack software development
-- 🌱 I’m currently learning java and c++
+- 🌱 I’m currently learning java, c++, and python
 - 💞️ I’m looking to collaborate on anything!!
 - 📫 How to reach me: email: shazi.bid23@gmail.com
 
