@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shazi Bidarain
+- 👋 Hi, I’m Shazi Bidarian
 - 👀 I’m interested in full stack software development
 - 🌱 I’m currently learning java, c++, and python
 - 💞️ I’m looking to collaborate on anything!!
