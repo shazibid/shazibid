@@ -20,7 +20,7 @@ I’m currently looking for an internship where I can contribute to meaningful p
 ## 📫 How to Reach Me
 
 📧 **Email:** shazi.bid23@gmail.com  
-🔗 **LinkedIn:** [linkedin.com/in/shahrzad-bidarian-620a69209](https://www.linkedin.com/in/shahrzad-bidarian-620a69209/)
+🔗 **LinkedIn:** https://www.linkedin.com/in/shazi-bidarian/
 
 ---
 
